@@ -1,11 +1,7 @@
 ## Hi there I'm Satyam👋
-![image](https://github.com/user-attachments/assets/e06c05f1-c397-4ee9-8dd0-3cef9ce1099b)
+![image](https://github.com/user-attachments/assets/073a4229-22a2-4d11-89ef-bd9de599d877)
 
 
-
-**AirSatyam07/AirSatyam07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on React and Python ML Projects.
 - 🌱 I’m currently learning Advanced DSA and Full-Stack Development.
@@ -25,7 +21,15 @@ Here are some ideas to get you started:
 
 ### 😄 Pronouns: He/Him
 ### ⚡ Fun fact: I love learning new algorithms and cooking! 
-![image](https://github.com/user-attachments/assets/165c5260-71b3-4aff-adb3-8ecb86dfbcfd) ![image](https://github.com/user-attachments/assets/2bb13990-4c2e-4631-8111-f73a3ab4c130)
+
+<br>
+<h2>📊 Github Stats</h2>
+
+![Satyam's github stats](https://github-readme-stats.vercel.app/api?username=AirSatyam07&theme=onedark)
+
+<br>
+
+<br />
 
 
 
